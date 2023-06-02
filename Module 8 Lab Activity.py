@@ -90,3 +90,7 @@ x = ["pan", "paper", "idea", "rope", "groceries"]
 y = ["slow"]
 
 task(x,y)
+#This programs goes through the lists of "x" and "y" then it will go through the
+#if statements and because we are using the "AND" function if one of the statements
+#is false then we move on until one statement returns all true; which is cooking
+#a meal!
